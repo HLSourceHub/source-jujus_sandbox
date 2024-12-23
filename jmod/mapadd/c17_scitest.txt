@@ -1,0 +1,11 @@
+"precache" {
+	"entity"	"monster_scientist"
+}
+
+"randomspawn" {	
+	"monster_scientist" {
+		"count"		"20"
+	}
+}
+
+

@@ -1,0 +1,14 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\DetectiveEdd\HalfLife\addon armor\techpad_albedo_alt"
+
+
+	"$selfillum" "1"
+	"$nocull" "1"
+	"$phong" "1"
+	"$phongexponenttexture" ""
+	"$phongboost" "18"
+	"$phongfresnelranges"	"[.04 .16 1]"
+	"$phongdisablehalflambert" 1
+	"$ambientocclusion" ".8"	
+

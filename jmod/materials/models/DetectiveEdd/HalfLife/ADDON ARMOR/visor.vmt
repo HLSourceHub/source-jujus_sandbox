@@ -1,0 +1,18 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\DetectiveEdd\HalfLife\ADDON ARMOR\extrametal_albedo"
+	"$bumpmap" "models\DetectiveEdd\HalfLife\ADDON ARMOR\visorbump"
+
+"$ENVMAP"					"models\DetectiveEdd\HalfLife\ADDON ARMOR\untitledreflect"
+"$ENVMAPFRESNEL"				"1.00"
+"$NORMALMAPALPHAENVMAPMASK"		"1.00"
+
+"$PHONG"					"1.00"
+"$PHONGBOOST"					"4.00"
+"$PHONGEXPONENT"				"64.00"
+"$PHONGFRESNELRANGES"			"[1.00 1.05 1.25]"
+"$PHONGDISABLEHALFLAMBERT"			"1.00"
+
+"$COLOR"					"[0.25 0.25 0.25]"
+"$COLOR2"					"[0.00 0.00 0.00]"
+
